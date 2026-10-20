@@ -10,3 +10,4 @@ Ce dossier contient les scripts d'introduction aux commandes de base du shell :
 * `3-listfiles` : Affiche le contenu du répertoire courant au format long.
 * `4-listmorefiles` : Affiche le contenu du répertoire courant au format long, y compris les fichiers cachés.
 * `5-listfilesdigitonly` : Affiche le contenu du répertoire au format long avec les identifiants numériques (UID/GID) et les fichiers cachés.
+* `6-firstdirectory` : Crée un répertoire nommé `my_first_directory` dans le dossier `/tmp/`.
