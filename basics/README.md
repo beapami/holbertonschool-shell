@@ -11,3 +11,4 @@ Ce dossier contient les scripts d'introduction aux commandes de base du shell :
 * `4-listmorefiles` : Affiche le contenu du répertoire courant au format long, y compris les fichiers cachés.
 * `5-listfilesdigitonly` : Affiche le contenu du répertoire au format long avec les identifiants numériques (UID/GID) et les fichiers cachés.
 * `6-firstdirectory` : Crée un répertoire nommé `my_first_directory` dans le dossier `/tmp/`.
+* `7-movethatfile` : Déplace le fichier `betty` depuis `/tmp/` vers `/tmp/my_first_directory/`.
