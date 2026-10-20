@@ -13,3 +13,4 @@ Ce dossier contient les scripts d'introduction aux commandes de base du shell :
 * `6-firstdirectory` : Crée un répertoire nommé `my_first_directory` dans le dossier `/tmp/`.
 * `7-movethatfile` : Déplace le fichier `betty` depuis `/tmp/` vers `/tmp/my_first_directory/`.
 * `8-firstdelete` : Supprime le fichier `betty` situé dans `/tmp/my_first_directory/`.
+* `9-firstdirdeletion` : Supprime le répertoire `my_first_directory` situé dans le dossier `/tmp/`.
