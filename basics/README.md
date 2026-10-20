@@ -21,3 +21,4 @@ Ce dossier contient les scripts d'introduction aux commandes de base du shell :
 * `14-copy_html` : Copie tous les fichiers `.html` du répertoire courant vers le répertoire parent, uniquement s'ils sont plus récents ou absents.
 * `15-lets_move` : Déplace tous les fichiers commençant par une lettre majuscule vers le répertoire `/tmp/u`.
 * `16-clean_emacs` : Supprime tous les fichiers du répertoire courant se terminant par le caractère `~`.
+* `17-tree` : Crée un script qui crée les répertoires `welcome/`, `welcome/to/` et `welcome/to/school` dans le répertoire actuel.
