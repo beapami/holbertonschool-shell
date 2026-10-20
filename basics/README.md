@@ -17,4 +17,4 @@ Ce dossier contient les scripts d'introduction aux commandes de base du shell :
 * `10-back` : Change le répertoire de travail vers le répertoire précédent.
 * `11-lists` : Affiche au format long et avec les fichiers cachés le contenu du répertoire courant, du répertoire parent et du répertoire `/boot`.
 * `12-file_type` : Affiche le type du fichier `iamafile` situé dans `/tmp/`.
-
+* `13-symbolic_link` : Crée un lien symbolique nommé `__ls__` pointant vers `/bin/ls` dans le répertoire courant.
