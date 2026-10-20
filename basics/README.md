@@ -19,3 +19,4 @@ Ce dossier contient les scripts d'introduction aux commandes de base du shell :
 * `12-file_type` : Affiche le type du fichier `iamafile` situé dans `/tmp/`.
 * `13-symbolic_link` : Crée un lien symbolique nommé `__ls__` pointant vers `/bin/ls` dans le répertoire courant.
 * `14-copy_html` : Copie tous les fichiers `.html` du répertoire courant vers le répertoire parent, uniquement s'ils sont plus récents ou absents.
+* `15-lets_move` : Déplace tous les fichiers commençant par une lettre majuscule vers le répertoire `/tmp/u`.
